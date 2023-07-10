@@ -1,0 +1,3 @@
+Ez egy új mondat
+Ez meg egy régi mondta.
+Ez most egy szöveges tartlaom, amit beleírok egy file-ba, mert ez a feladat
